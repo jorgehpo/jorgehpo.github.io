@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Awards and Honors"
+permalink: /awards/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div style="margin-top: 50px">
+	<ul>
+		{% for award in site.data.awards %}
+			<li>
+				<p>
+					<b>{{award.year}} - {{award.title}}</b>
+					{% if award.info %}
+						 - {{award.info}}. 
+					{% endif %}
+					{% if award.link %}
+					Available <a href="{{award.link}}">here</a>.
+					{% endif %}
+				</p>
+			</li>
+		{% endfor %}
+	</ul>
+</div>

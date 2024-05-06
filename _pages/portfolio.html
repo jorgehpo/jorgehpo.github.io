@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Vis Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+{% assign sorted = (site.portfolio | sort: 'date') | reverse %}
+{% for post in sorted %}
+  {% include archive-single-portfolio.html type="grid" %}
+{% endfor %}
+</div>

@@ -1,0 +1,39 @@
+- duration: "2021 - present"
+  title: "Research Scientist"
+  company: "Bosch Research"
+  info: "<ul><li>Visual Analytics for XAI and Model Validation</li></ul>"
+
+- duration: "2020 - 2021"
+  title: "Teaching Assistantship"
+  company: "New York University"
+  location: "Brooklyn - NY"
+  info: "
+  <ul>
+  <li>Spring 2021: Visualization for Machine Learning</li>
+  <li>Spring 2020: Visualization: Connections with Machine Learning</li>
+  </ul>
+  "
+
+- duration: "Summer 2019"
+  title: "Machine Learning Intern"
+  company: "Facebook"
+  location: "Seattle"
+  info: "<ul><li>Worked on image and video embeddings for content retrieval.</li></ul>"
+
+- duration: "Summer 2017" 
+  title: "Research Intern"
+  company: "AT&T Research Labs"
+  location: "New York City"
+  info: "<ul><li>Developed D3 visualizations and Apache Spark scripts for time series analysis.</li></ul>"
+
+- duration: "2013-2014"
+  title: "Teaching Assistantship"
+  company: "University of Sao Paulo"
+  location: "Sao Carlos - Brazil"
+  info: "
+  <ul>
+  <li>2<sup>nd</sup> Semester of 2014: Algorithms and Data Structures 1</li>
+  <li>1<sup>st</sup> Semester of 2014: Computational Modelling in Graphs</li>
+  <li>2<sup>nd</sup> Semester of 2013: Algorithms and Data Structures 1</li>
+  </ul>
+  "

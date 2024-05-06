@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Work Experience"
+permalink: /work/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for work in site.data.work %}
+<h2 class="archive__item-title" itemprop="headline">{{ work.title }}</h2>
+<p>{{work.company}} ({{work.duration}})</p>
+{{work.info}}
+{% endfor %}
