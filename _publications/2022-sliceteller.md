@@ -1,5 +1,5 @@
 ---
-title: 'SliceTeller : A Data Slice-Driven Approach for Machine Learning Model Validation'
+title: 'SliceTeller: A Data Slice-Driven Approach for Machine Learning Model Validation'
 collection: publications
 permalink: /publication/2022-sliceteller
 excerpt: ''
