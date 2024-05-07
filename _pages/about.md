@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Senior Research Scientist at [Bosch Research](https://www.bosch.com/research/). Before that, I was a PhD student at [NYU Tandon School of Engineering](http://engineering.nyu.edu) under the supervision of Professor [Claudio Silva](https://vgc.poly.edu/~csilva/). I hold a B.Sc. in Computer Science from [Sao Paulo State University](http://unesp.br/international/index.php) (2012) and a Masters in Computer Science from [University of Sao Paulo](http://www5.usp.br/english/?lang=en) (2015), Brazil.
+Currently, I am a Senior Research Scientist at [Bosch Research](https://www.bosch.com/research/). Before that, I was a PhD student at [NYU Tandon School of Engineering](http://engineering.nyu.edu) under the supervision of Professor [Claudio Silva](https://engineering.nyu.edu/faculty/claudio-silva). I hold a B.Sc. in Computer Science from [Sao Paulo State University](http://unesp.br/international/index.php) (2012) and a Masters in Computer Science from [University of Sao Paulo](http://www5.usp.br/english/?lang=en) (2015), Brazil.
 
 I come from Bauru, a major urban and cultural center of the state of Sao Paulo. In 2015, I moved to Brooklyn NY to do my PhD, and in 2021 I moved to Sunnyvale CA to join the Visual Analytics team at Bosch Research. 
 
